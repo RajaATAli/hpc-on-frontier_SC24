@@ -2,4 +2,3 @@ Hello! I am a text file. I have some text.
 
 Would you like to add some more text to me?
 
-I have added some text because I am in insert mode.
